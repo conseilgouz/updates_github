@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin AutoReadMore</name>
+		<description/>
+		<element>autoreadmore</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>5.0.6</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/AutoReadMore-J4.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="3.10"/>
+	</update>
+	<update>
+		<name>Plugin AutoReadMore</name>
+		<description/>
+		<element>autoreadmore</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>5.0.6</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/AutoReadMore-J4.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://www.conseilgouz.com/updates/plg_autoreadmore_changelog.xml</changelogurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<sha256>debe9cc47d4b120b575b17f6fe030021ee28f68a61167a1f82a4aa7448dd817e</sha256>
+	</update>
+</updates>

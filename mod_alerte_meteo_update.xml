@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Alerte Meteo</name>
+		<element>mod_alerte_meteo</element>
+		<type>module</type>
+		<version>1.2.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/mod_alerte_meteo.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[56789]"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Alerte Meteo</name>
+		<element>mod_alerte_meteo</element>
+		<type>module</type>
+		<version>2.0.3</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/mod_alerte_meteo_j4.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Alerte Meteo</name>
+		<element>mod_alerte_meteo</element>
+		<type>module</type>
+		<version>2.0.3</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/mod_alerte_meteo_j4.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<changelogurl>https://www.conseilgouz.com/updates/mod_alerte_meteo_changelog.xml</changelogurl>	
+		<client>site</client>
+		<sha256>67e6b6f91b5aaa5d5dd82796a716ac45b8e548adcc3ff6b3ef0e1dc93e4f6e99</sha256>
+	</update>
+</updates>

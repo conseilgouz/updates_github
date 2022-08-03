@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Simple Isotope</name>
+		<element>mod_simple_isotope</element>
+		<type>module</type>
+		<version>2.1.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=mod_simple_isotope.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[789]|10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Simple Isotope</name>
+		<element>mod_simple_isotope</element>
+		<type>module</type>
+		<version>4.0.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=mod_simple_isotope_j4.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://www.conseilgouz.com/updates/simple_isotope_changelog.xml</changelogurl>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<client>site</client>
+		<sha256>0ef1bc9650682c85518792b012c9d21e49043138e143eb557dfeacd48d0267c2</sha256>
+	</update>
+</updates>

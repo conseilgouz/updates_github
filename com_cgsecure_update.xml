@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Secure</name>
+		<element>com_cgsecure</element>
+		<type>component</type>
+		<version>1.3.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=pkg_cgsecure.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.9|10"/>
+		<sha256>BEE8CE976824775C51C28A8F080B8AB0C8BBA24334EFEBACCC5F8EA492D6809F</sha256>
+	</update>
+	<update>
+		<name>CG Secure</name>
+		<element>com_cgsecure</element>
+		<type>component</type>
+		<version>2.1.6</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/pkg_cgsecure_j4.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://www.conseilgouz.com/updates/com_cgsecure_changelog.xml</changelogurl>	
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<sha256>87ace453ff156fad03ae32d4a9be1b04394fb1994e7b4ac3f133b634ea8b6b4e</sha256>
+	</update>
+</updates>
