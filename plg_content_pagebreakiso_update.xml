@@ -9,10 +9,10 @@
 		<version>4.0.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_pagebreakiso_j4/archive/refs/tags/4.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_pagebreakiso_j4/archive/refs/tags/4.0.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="4.[012]"/>
 		<changelogurl>hhttps://github.com/conseilgouz/plg_content_pagebreakiso_j4/blob/main/plg_content_pagebreakiso_changelogl</changelogurl>
-		<sha256>debe9cc47d4b120b575b17f6fe030021ee28f68a61167a1f82a4aa7448dd817e</sha256>
+		<sha256>696c563ca0df0d90aafc46761819b9827a9e32856348ca1fe31c9a1c5f06ec48</sha256>
 	</update>
 </updates>
