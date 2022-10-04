@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Isotope</name>
+		<element>com_cgisotope</element>
+		<type>component</type>
+		<version>1.17.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=com_cgisotope.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[89]|10"/>
+		<sha256>4F2219958C8F84A5AB9EA5D0BEB4394C7AF2C548D85F548E935DFB3894922CDF</sha256>		
+	</update>
+	<update>
+		<name>CG Isotope</name>
+		<element>com_cgisotope</element>
+		<type>component</type>
+		<version>3.0.12</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cgisotope_j4/master/com_cg_isotope_changelog.xml</changelogurl>		
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgisotope_j4/releases/tag/3.0.12</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<sha256>5e85f5cde0bf9ad30116a78b1e87623f9330ff29a6591a96372c7536791cd504</sha256>
+	</update>
+</updates>
