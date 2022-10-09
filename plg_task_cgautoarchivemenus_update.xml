@@ -3,7 +3,7 @@
 	<update>
 		<name>plugin CG Auto Archive Menus</name>
 		<description/>
-		<element>cgautoarchivemenu</element>
+		<element>cgautoarchivemenus</element>
 		<type>plugin</type>
 		<folder>task</folder>		
 		<version>1.1.2</version>
