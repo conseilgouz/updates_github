@@ -6,13 +6,13 @@
 		<element>cgautoarchivemenus</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>1.1.2</version>
+		<version>1.1.3</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgautoarchivemenus_j4/archive/refs/tags/1.1.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgautoarchivemenus_j4/archive/refs/tags/1.1.3.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cgautoarchivemenus_j4/master/cgautoarchivemenus_changelog.xml	</changelogurl>
 		<targetplatform name="joomla" version="4.[12]"/>
-		<sha256>e8c7d6a79ed00bd1648a3ba2dafbbc4445a8c2760624d57b48eba297075dc2b8</sha256>
+		<sha256>f19c886030dfa1cb72ee09e44ea09de16e8b04a8a42051228c5ca84dc69c6774</sha256>
 	</update>
 </updates>
