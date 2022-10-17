@@ -56,7 +56,7 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[012]"/>
 		<client>site</client>
-		<sha256>898b3d73967a0488c877096991e834dca1c710f74a600039d94a55b0d5a82e39</sha256>
+		<sha256>5ad56c961e690ecd98d0d1636737ee568883f4cb7f5d482b854ecd3f0bd1d1d2</sha256>
 	</update>
 	<update>
 		<name>CG Template Switcher</name>
@@ -72,6 +72,6 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[012]"/>
 		<client>site</client>
-		<sha256>898b3d73967a0488c877096991e834dca1c710f74a600039d94a55b0d5a82e39</sha256>
+		<sha256>5ad56c961e690ecd98d0d1636737ee568883f4cb7f5d482b854ecd3f0bd1d1d2</sha256>
 	</update>
 </updates>
