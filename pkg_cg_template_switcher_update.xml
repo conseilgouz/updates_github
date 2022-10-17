@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Template Switcher</name>
+		<description>Package CG Template Switcher</description>
+		<element>pkg_cg_template_switcher</element>
+		<type>package</type>
+		<version>1.0.1</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/pkg_cg_template_switcher.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[89]"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>CG Template Switcher</name>
+		<description>Package CG Template Switcher</description>
+		<element>pkg_cgtemplateswitcher</element>
+		<type>package</type>
+		<version>2.0.6</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.0.6.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>CG Template Switcher</name>
+		<description>Package CG Template Switcher</description>
+		<element>pkg_cg_template_switcher</element>
+		<type>package</type>
+		<version>2.0.6</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.0.6.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>CG Template Switcher</name>
+		<description>Package CG Template Switcher</description>
+		<element>pkg_CGTemplateSwitcher</element>
+		<type>package</type>
+		<version>2.0.6</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_template_switcher_j4/master/cg_template_switcher_changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.0.6.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<client>site</client>
+		<sha256>898b3d73967a0488c877096991e834dca1c710f74a600039d94a55b0d5a82e39</sha256>
+	</update>
+	<update>
+		<name>CG Template Switcher</name>
+		<description>Package CG Template Switcher</description>
+		<element>pkg_cgtemplateswitcher</element>
+		<type>package</type>
+		<version>2.0.6</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_template_switcher_j4/master/cg_template_switcher_changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.0.6.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<client>site</client>
+		<sha256>898b3d73967a0488c877096991e834dca1c710f74a600039d94a55b0d5a82e39</sha256>
+	</update>
+</updates>
