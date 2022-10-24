@@ -3,7 +3,7 @@
 	<update>
 		<name>Plugin CG ZipDir</name>
 		<description/>
-		<element>plg_content_cgzipdir</element>
+		<element>cgzipdir</element>
 		<type>plugin</type>
 		<folder>content</folder>		
 		<version>1.0.1</version>
