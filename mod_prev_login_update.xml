@@ -39,6 +39,6 @@
 		<targetplatform name="joomla" version="4.[012]"/>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_prev_login_j4/master/mod_prev_login_changelog.xml</changelogurl>		
-		<sha256>DAEE523859A4C61170D84A3F3A4F43755ED6A721EDC15BC20FBCB4C6525425BB</sha256>
+		<sha256>229caf6bf5ed55b9011b58452d94e326f3564b7a395b22a65a2905815c745b21</sha256>
 	</update>
 </updates>
