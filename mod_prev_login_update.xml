@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Derniere connexion</name>
+		<element>mod_prev_login</element>
+		<type>module</type>
+		<version>1.0.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=mod_prev_login.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[56789]"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Derniere connexion</name>
+		<element>mod_prev_login</element>
+		<type>module</type>
+		<version>2.1.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_prev_login_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Derniere connexion</name>
+		<element>mod_prev_login</element>
+		<type>module</type>
+		<version>2.1.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_prev_login_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<client>site</client>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_prev_login_j4/master/mod_prev_login_changelog.xml</changelogurl>		
+		<sha256>DAEE523859A4C61170D84A3F3A4F43755ED6A721EDC15BC20FBCB4C6525425BB</sha256>
+	</update>
+</updates>
