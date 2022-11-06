@@ -21,7 +21,7 @@
 		<folder>ajax</folder>		
 		<version>2.0.1</version>
 		<client>site</client>
-		<changelogurl>https://raw.githubusercontent.com/conseilgouz/cg_like_j4/master/plg_cg_like_ajax_changelog.xml		
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/cg_like_ajax_j4/master/plg_cg_like_ajax_changelog.xml		
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_ajax_j4/archive/refs/tags/2.0.1.zip</downloadurl>
 		</downloads>
