@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
-<update>
+	<update>
 		<name>plg_fields_cgzipcode</name>
 		<description/>
 		<element>cgzipcode</element>
@@ -12,20 +12,21 @@
 			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=plg_fields_cgzipcode.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3.[89]|10"/>
-</update>
-
+	</update>
 	<update>
 		<name>Plugin Fields CGZipCode</name>
 		<description/>
 		<element>cgzipcode</element>
 		<type>plugin</type>
 		<folder>fields</folder>		
-		<version>2.0.2</version>
+		<version>2.0.3</version>
 		<client>site</client>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_fields_cgzipcode_j4/master/cgzipcode_changelog.xml	
+		</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_fields_cgzipcode_j4/archive/refs/tags/2.0.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_fields_cgzipcode_j4/archive/refs/tags/2.0.3.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="4.[12]"/>
-		<sha256>6192e9ecfd8a32368d52bf7c92bfa6fd9ff10aa834261681112de5c08b2cfffe</sha256>
+		<sha256>0a35a2e5494cf7841d8b9b6faca3f497b89180400faa6faf2008655273513c69</sha256>
 	</update>
 </updates>
