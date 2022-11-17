@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+<update>
+		<name>plg_content_cgcountdown</name>
+		<infourl title="CG CountDown Plugin">
+		</infourl>		
+		<element>cgcountdown</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>1.1.3</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/plg_content_cgcountdown.zip</downloadurl>
+		</downloads>
+		<tags>
+		<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[789]|10"/>
+</update>
+<update>
+		<name>plg_content_cgcountdown</name>
+		<description/>
+		<element>cgcountdown</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>2.1.0</version>
+		<client>site</client>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgcountdown_j4/master/cgcountdown_changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgcountdown_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<sha256>f0efa230cab95ffc5c1a3e89693f079b280bf4ba9e51832264ae24a8fe88b6fd</sha256>
+</update>
+</updates>
