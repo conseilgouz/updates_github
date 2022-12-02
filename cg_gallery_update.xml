@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Gallery</name>
+		<element>mod_cg_gallery</element>
+		<type>module</type>
+		<version>2.3.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_gallery_j4/archive/refs/tags/2.3.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>CG Gallery</name>
+		<element>mod_cg_gallery</element>
+		<type>module</type>
+		<version>2.3.0</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_gallery_j4/master/mod_cg_gallery_changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_gallery_j4/archive/refs/tags/2.3.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[012]"/>
+		<client>site</client>
+	</update>
+	<sha256>61b2237b9fb6009c42f089ff6ee5824a208bae90c5e5c82175754e4907a70642</sha256>
+	</updates>
