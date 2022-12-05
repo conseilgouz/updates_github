@@ -26,5 +26,6 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<client>site</client>
+		<sha256>da4ef2218bc5eb1640349f87875ac329bc8fd6e320de0619722bb528ec215b12</sha256>
 	</update>
 </updates>
