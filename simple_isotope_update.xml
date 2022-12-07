@@ -17,15 +17,15 @@
 		<name>Simple Isotope</name>
 		<element>mod_simple_isotope</element>
 		<type>module</type>
-		<version>4.1.1</version>
+		<version>4.1.4</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_simple_isotope_j4/archive/refs/tags/4.1.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_simple_isotope_j4/archive/refs/tags/4.1.4.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_simple_isotope_j4/master/mod_simple_isotope_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[012]"/>
+		<targetplatform name="joomla" version="4.[0123]"/>
 		<client>site</client>
-		<sha256>ea26cd1dd82775ec3a025037d2d8e1f5cdd3cfa2eca1b1e50f6ecc8e8f37446f</sha256>
+		<sha256>26cceca782d4250b9f9903d934a05ad1e319a7808080f8085bfa1d381f7f9d47</sha256>
 	</update>
 </updates>
