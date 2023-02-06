@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Package CG Popup</name>
+		<element>pkg_cg_popup</element>
+		<type>package</type>
+		<version>1.2.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=pkg_cg_popup.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[789]|10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Package CG Popup</name>
+		<element>pkg_cg_popup</element>
+		<type>package</type>
+		<version>2.2.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/conseilgouz/updates_github/master/pkg_cg_popup_j4.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_popup_j4/master/pkg_cg_popup_changelog.xml</changlogurl>		
+		<sha256>358cfb993aa9b983ca553761ab8f49f7a0d40f22a2db2d1b03c15dc25c81f74c</sha256>
+	</update>
+</updates>
