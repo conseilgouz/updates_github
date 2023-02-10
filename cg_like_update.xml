@@ -25,6 +25,6 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_j4/archive/refs/tags/2.0.1.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="4.[012]"/>
+		<targetplatform name="joomla" version="4.[0123]"/>
 </update>
 </updates>
