@@ -24,7 +24,7 @@
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cgsecure_j4/master/com_cgsecure_changelog.xml</changelogurl>	
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[012]"/>
+		<targetplatform name="joomla" version="4.[0123]"/>
 		<sha256>ef723355a7fc280c8ab5af082f52231035951ec1167c5fafa99c6327fb73def3</sha256>
 	</update>
 </updates>
