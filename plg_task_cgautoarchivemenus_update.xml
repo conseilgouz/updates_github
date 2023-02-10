@@ -14,7 +14,7 @@
 		<changelogurl>
 		https://raw.githubusercontent.com/conseilgouz/plg_task_cgautoarchivemenus_j4/master/cgautoarchivemenus_changelog.xml
 		</changelogurl>
-		<targetplatform name="joomla" version="4.[12]"/>
+		<targetplatform name="joomla" version="4.[123]"/>
 		<sha256>42a5a111ca1439242f0c2db470a80a2c4607a2a9222df468e9a0b21465026dd0</sha256>
 	</update>
 </updates>
