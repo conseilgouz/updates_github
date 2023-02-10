@@ -26,7 +26,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgzipdir_j4/archive/refs/tags/1.0.5.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="4.[012]"/>
+		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgzipdir_j4/master/plg_content_cgzipdir_changelog.xml</changelogurl>
 		<sha256>957e52e77799aa968203fb180eb814c73f4b230683e8ba8499b3f2a4127a44e6</sha256>
 	</update>
