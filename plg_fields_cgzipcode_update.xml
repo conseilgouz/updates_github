@@ -26,7 +26,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_fields_cgzipcode_j4/archive/refs/tags/2.0.4.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="4.[12]"/>
+		<targetplatform name="joomla" version="4.[123]"/>
 		<sha256>f5234cc03102d2b2e023db6a923566dc664a9224449dcb2bf44514195c675f40</sha256>
 	</update>
 </updates>
