@@ -36,7 +36,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[012]"/>
+		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_alerte_meteo_j4/master/mod_alerte_meteo_changelog.xml</changelogurl>	
 		<client>site</client>
 		<sha256>0d05b21c7d5c07326d7e41b1f717c51b4525602da459be9cd53f26ca6424d413</sha256>
