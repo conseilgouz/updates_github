@@ -26,6 +26,6 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_popup_j4/master/mod_cg_popup_changelog.xml</changelogurl>		
-		<sha256>ef1515ab7bc51498f827a4da03e69beb1eb085910417407456c3dc42504748c9</sha256>
+		<sha256>d72666f4f7534f90fe4f99c3e44f4cee38f693306c3c97a69ab13821763c7281</sha256>
 	</update>
 </updates>
