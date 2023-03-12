@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Resa</name>
+		<element>com_cg_resa</element>
+		<type>component</type>
+		<version>1.4.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=com_cg_resa.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[789]|10"/>
+	</update>
+	<update>
+		<name>CG Resa</name>
+		<element>com_cg_resa</element>
+		<type>component</type>
+		<version>2.2.4</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cg_resa_j4/archive/refs/tags/2.2.4.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cg_resa_j4/master/com_cgresa_changelog.xml</changelogurl>
+		<sha256>a35a3c841e76945db6d0b5e77472dfd41c2667cd80b417f366a5dd8ce4810cac</sha256>
+	</update>
+</updates>
