@@ -13,6 +13,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_publishedarticle_j4/master/plg_content_publishedarticle_changelog.xml</changelogurl>
-		<sha256>e0e9636155221e52342eb0d1e9dbbe83865387bd90990857ffa4df2c0a130ddc</sha256>
+		<sha256>515ed2b2edc584ecad276007327c4527b216fac3b34a1187e905b6c9696f90da</sha256>
 	</update>
 </updates>
