@@ -13,6 +13,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_user_automsg_j4/master/plg_user_automsg_changelog.xml</changelogurl>
-		<sha256>e0e9636155221e52342eb0d1e9dbbe83865387bd90990857ffa4df2c0a130ddc</sha256>
+		<sha256>db8913ba16dbb7f9d1ee9be9871755b600fbf2b2421e91cc840de46d46ce7a57</sha256>
 	</update>
 </updates>
