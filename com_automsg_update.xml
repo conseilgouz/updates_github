@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>com_automsg</name>
+		<element>com_automsg</element>
+		<type>component</type>
+		<version>1.0.0</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_automsg_j4/master/com_automsg_changelog.xml</changelogurl>		
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_automsg_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<sha256></sha256>
+	</update>
+</updates>
