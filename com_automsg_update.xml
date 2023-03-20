@@ -12,6 +12,6 @@
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[0123]"/>
-		<sha256></sha256>
+		<sha256>c6647fef7558e8b02ab261d0aa305b8ff843f86dc571003e737a50be5866c332</sha256>
 	</update>
 </updates>
