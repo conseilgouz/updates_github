@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin Content Published Article</name>
+		<description/>
+		<element>publishedarticle</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>3.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_publishedarticle_j4/master/plg_content_automsg_changelog.xml</changelogurl>
+		<sha256>215b83f4ad6eeb31ba366210420ec1445d0b9a4708c476f9c92429f9c1f1eaa2</sha256>
+	</update>
+	<update>
+		<name>Plugin Content AutoMsg</name>
+		<description/>
+		<element>automsg</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>3.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
+		<sha256>215b83f4ad6eeb31ba366210420ec1445d0b9a4708c476f9c92429f9c1f1eaa2</sha256>
+	</update>
+</updates>
