@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Simple Meteo</name>
+		<element>mod_simple_meteo</element>
+		<type>module</type>
+		<version>2.0.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/mod_simple_meteo.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[56789]|10"/>
+		<client>site</client>
+		<sha256>9E8CC01A7916E4F8BCED74374D4739C970650E9324148B89B712D236997C73E4</sha256>
+	</update>
+	<update>
+		<name>Simple Meteo</name>
+		<element>mod_simple_meteo</element>
+		<type>module</type>
+		<version>2.0.4</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_popup_j4/archive/refs/tags/2.0.4.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_meteo_j4/master/mod_cg_meteo_changelog.xml</changelogurl>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<client>site</client>
+		<sha256>9DDCBDEDDDA3549FF81D69002D72CB8B1B0B9A5C639D67ADBA0D86A8F7E6B03C</sha256>
+	</update>
+	<update>
+		<name>CG Meteo</name>
+		<element>mod_cg_meteo</element>
+		<type>module</type>
+		<version>2.0.4</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_popup_j4/archive/refs/tags/2.0.4.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_meteo_j4/master/mod_cg_meteo_changelog.xml</changelogurl>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<client>site</client>
+		<sha256>9DDCBDEDDDA3549FF81D69002D72CB8B1B0B9A5C639D67ADBA0D86A8F7E6B03C</sha256>
+	</update>
+</updates>
