@@ -30,4 +30,19 @@
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
 		<sha256>bf269c283218542339d154cd9ce67c1480dfb1fd355de96ea0a3a6c2204e966b</sha256>
 	</update>
+	<update>
+		<name>Plugin Content Automsg</name>
+		<description/>
+		<element>cgzipdir</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>3.0.2</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.0.2.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
+		<sha256>bf269c283218542339d154cd9ce67c1480dfb1fd355de96ea0a3a6c2204e966b</sha256>
+	</update>
 </updates>
