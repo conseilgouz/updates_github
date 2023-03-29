@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Light RSS</name>
+		<element>mod_light_rss</element>
+		<type>module</type>
+		<version>2.0.1</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_light_rss_j4/archive/refs/tags/2.0.1.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<client>site</client>
+	</update>
+</updates>
