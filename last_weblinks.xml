@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Derniers liens web</name>
+		<element>mod_last_weblinks</element>
+		<type>module</type>
+		<version>1.1.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/mod_last_weblinks.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[56789]|10"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>Latest weblinks</name>
+		<element>mod_latest_weblinks</element>
+		<type>module</type>
+		<version>2.0.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_latest_weblinks_j4/archive/refs/tags/2.0.2.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<client>site</client>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_latest_weblinks_j4/master/mod_latest_weblinks_changelog.xml</changelogurl>
+		<sha256>8e3994f5c52085a1c2551e92df8a24f6883fd04324716e97d02de5b8252846d3</sha256>
+	</update>
+</updates>
