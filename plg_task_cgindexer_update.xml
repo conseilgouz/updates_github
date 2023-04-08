@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin Task CG Indexer</name>
+		<description/>
+		<element>cgindexer</element>
+		<type>plugin</type>
+		<folder>task</folder>		
+		<version>1.0.1</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgindexer_j4/archive/refs/tags/1.0.1.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cgindexer_j4/master/plg_task_cgindexer_changelog.xml</changelogurl>
+		<sha256>bb116b6f1ea8c8f2a039d046e10a7b165c498e13eb115ac545346f9295c765a9</sha256>
+	</update>
+</updates>
