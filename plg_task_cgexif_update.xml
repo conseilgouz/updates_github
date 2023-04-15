@@ -6,13 +6,13 @@
 		<element>cgexif</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgexif_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgexif_j4/archive/refs/tags/1.0.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cgexif_j4/master/plg_task_cgexif_changelog.xml</changelogurl>
-		<sha256>4ebf286ec144d4be91b56066d350f3b2c4ec6843899c28ea656745bfdf057bba</sha256>
+		<sha256>02e65d9cc1df1cfbd7b04cc09a68205d41bf0c297d6e3eebdbe90a148006d57b</sha256>
 	</update>
 </updates>
