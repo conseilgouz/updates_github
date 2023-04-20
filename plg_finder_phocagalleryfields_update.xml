@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin Finder PhocagalleryFilds</name>
+		<description/>
+		<element>phocagalleryfields</element>
+		<type>plugin</type>
+		<folder>finder</folder>		
+		<version>1.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_finder_phocagalleryfields_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_finder_phocagalleryfields_j4/master/plg_finder_phocagalleryfields_changelog.xml</changelogurl>
+		<sha256>9284f4168a5f405a66b93de0998ee216a6259fa331e70c2430564d96988db8d8</sha256>
+	</update>
+</updates>
