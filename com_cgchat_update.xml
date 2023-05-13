@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Chat</name>
+		<element>com_cgchat</element>
+		<type>component</type>
+		<version>1.0.0</version>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cgchat_j4/master/com_cgchat_changelog.xml</changelogurl>		
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgchat_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<sha256>a06a6acf6638357e4ca76f3750044614e6325decb60844cbd8074a0880201758</sha256>
+	</update>
+</updates>
