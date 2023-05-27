@@ -25,7 +25,7 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="4.[0123]"/>
 		<client>site</client>
-		<changelogurl>ttps://raw.githubusercontent.com/conseilgouz/mod_cg_zoompage_j4/master/mod_cg_zoompage_changelog.xml</changelogurl>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_zoompage_j4/master/mod_cg_zoompage_changelog.xml</changelogurl>
 		<sha256>0B50F2BD08E43EF5B0D87E2E2F381CEA2410B2404E3A1062CE69FAA232B450F9</sha256>
 	</update>
 </updates>
