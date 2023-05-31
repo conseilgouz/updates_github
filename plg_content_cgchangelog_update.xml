@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin CG ChangeLog</name>
+		<description/>
+		<element>cgchangelog</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>1.0.4</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgchangelog_j4/archive/refs/tags/1.0.4.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="4.[0123]"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgchangelog_j4/master/plg_content_cgchangelog_changelog.xml</changelogurl>
+		<sha256>590f0d414962574e9fede9fbac06b7b4c0ddda7207deffd95abb88cafe0173db</sha256>
+	</update>
+</updates>
