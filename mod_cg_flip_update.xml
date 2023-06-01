@@ -24,7 +24,7 @@
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_flip_j4/master/mod_cg_flip_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 		<sha256>43bbb7580f278760697576aec6a631c3ddeaa93d2a18a9fd283ccd8e569bbb8e</sha256>		
 	</update>

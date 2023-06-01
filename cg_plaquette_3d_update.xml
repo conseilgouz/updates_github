@@ -24,7 +24,7 @@
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_plaquette_3d_j4/master/mod_cg_plaquette_3d_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 		<sha256>9903b2f5e7d99b20bbdb45d62c66bd00dc52626d98006121692be3d9aa9ff1d8</sha256>
 	</update>

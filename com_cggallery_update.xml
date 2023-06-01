@@ -23,7 +23,7 @@
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cggallery_j4/master/com_cggallery_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<sha256>005607733931e9df2194faf6cb19ba8bea1450cfa5d941118c79ed019559c370</sha256>
 	</update>
 </updates>

@@ -22,7 +22,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cg_resa_j4/master/com_cgresa_changelog.xml</changelogurl>
 		<sha256>7190ee91e8c3a612a1684eb2c53895e8fac7f26bb9dbb3c1acbb55aa1aa24679</sha256>
 	</update>

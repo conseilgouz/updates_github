@@ -10,7 +10,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_latest_weblinks_j4/master/mod_latest_weblinks_changelog.xml</changelogurl>
 		<sha256>8e3994f5c52085a1c2551e92df8a24f6883fd04324716e97d02de5b8252846d3</sha256>

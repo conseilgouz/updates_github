@@ -39,7 +39,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="4.[0123]"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_prev_login_j4/master/profile_prevlogin_changelog.xml</changelogurl>		
 		<sha256>71327bd2ec2bce1a0e6527a703f05fa5377631c04c16f5542bf7629b6dafdf7d</sha256>
