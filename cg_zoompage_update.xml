@@ -26,6 +26,6 @@
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_zoompage_j4/master/mod_cg_zoompage_changelog.xml</changelogurl>
-		<sha256>0B50F2BD08E43EF5B0D87E2E2F381CEA2410B2404E3A1062CE69FAA232B450F9</sha256>
+		<sha256>0b50f2bd08e43ef5b0d87e2e2f381cea2410b2404e3a1062ce69faa232b450f9</sha256>
 	</update>
 </updates>
