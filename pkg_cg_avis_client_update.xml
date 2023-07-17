@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>pkg_CGAvisClient</name>
+		<name>Package CG Avis Client</name>
 		<description>CG Avis Client</description>
-		<element>pkg_cg_avisclient</element>
+		<element>pkg_CGAvisClient</element>
 		<type>package</type>
 		<client>site</client>
 		<version>2.1.0</version>
