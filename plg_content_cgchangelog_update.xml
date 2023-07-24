@@ -6,13 +6,13 @@
 		<element>cgchangelog</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>1.0.5</version>
+		<version>1.0.6</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgchangelog_j4/archive/refs/tags/1.0.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgchangelog_j4/archive/refs/tags/1.0.6.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgchangelog_j4/master/plg_content_cgchangelog_changelog.xml</changelogurl>
-		<sha256>5f7bdc6e1ae65377a3737c942aff9082812851cde4fb43ab0dbac5a18c17cf7c</sha256>
+		<sha256>f2ec3f9af73266a01781a191649170579172f2077a1df188e35b2c12c93038fe</sha256>
 	</update>
 </updates>
