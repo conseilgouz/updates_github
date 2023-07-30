@@ -12,6 +12,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_avisclient_j4/master/pkg_cg_avis_client_changelog.xml</changelogurl>
-		<sha256>96d5395d0437443415e5c33673d0f24a7133c4e2d7db1f874411e4a700a526df</sha256>
+		<sha256>15c3c7bf62bfd58a037265ae99d4f1e232c362c6d00f15fb2e4d86905690b3d2</sha256>
 	</update>
 </updates>
