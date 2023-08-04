@@ -6,13 +6,13 @@
 		<element>automsg</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>1.1.0</version>
+		<version>1.1.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_automsg_j4/archive/refs/tags/1.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_automsg_j4/archive/refs/tags/1.1.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_automsg_j4/master/plg_task_automsg_changelog.xml</changelogurl>
-		<sha256>8d3c21bb9bc3b38d64c989f23e2d0d891944a3f7dc03474436befbe5cce70af6</sha256>
+		<sha256>82eec7c6977ce288935d819c56b44137913c3944c687e6eb06a4d7f8212fac4b</sha256>
 	</update>
 </updates>
