@@ -17,15 +17,15 @@
 		<name>CG Resa</name>
 		<element>mod_cg_resa</element>
 		<type>module</type>
-		<version>2.1.0</version>
+		<version>2.1.2</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_resa_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_resa_j4/archive/refs/tags/2.1.2.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_resa_j4/master/mod_cg_resa_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>8c91ea98a0ae7dfa60c47be0f6e9d02a9c2ba27f6eb3cda8a07c072a5ff3977d</sha256>
+		<sha256>94bc146c8ad2a56ac7c47142a4635fb634d9e1f4dacce4c482854abe7c9d1266</sha256>
 	</update>
 </updates>
