@@ -17,9 +17,9 @@
 		<name>Alerte Meteo</name>
 		<element>mod_alerte_meteo</element>
 		<type>module</type>
-		<version>2.1.0</version>
+		<version>2.2.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_alerte_meteo_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_alerte_meteo_j4/archive/refs/tags/2.2.1.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
@@ -30,15 +30,15 @@
 		<name>Alerte Meteo</name>
 		<element>mod_alerte_meteo</element>
 		<type>module</type>
-		<version>2.1.0</version>
+		<version>2.2.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_alerte_meteo_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_alerte_meteo_j4/archive/refs/tags/2.2.1.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_alerte_meteo_j4/master/mod_alerte_meteo_changelog.xml</changelogurl>	
 		<client>site</client>
-		<sha256>2b8e5578dbbfe4edc2e5a934245e32c26005f1c632622c95740abacec227c394</sha256>
+		<sha256>5debf332a48ce7bd37fcac0b11dc8294944518d36e7c33815aa121f1a4bca322</sha256>
 	</update>
 </updates>
