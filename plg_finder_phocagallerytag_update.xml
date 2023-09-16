@@ -6,13 +6,13 @@
 		<element>phocagallerytag</element>
 		<type>plugin</type>
 		<folder>finder</folder>		
-		<version>2.0.3</version>
+		<version>2.1.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_finder_phocagallerytag_j4/archive/refs/tags/2.0.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_finder_phocagallerytag_j4/archive/refs/tags/2.1.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_finder_phocagallerytag_j4/master/plg_finder_phocagallerytag_changelog.xml</changelogurl>
-		<sha256>54d0c56fd431b29e5e0d2a3745667d844dfaeb65717a5bfe44fc5aee259a1280</sha256>
+		<sha256>6d006c2eb88abeddbcfcff2cd9913184d21ab2a1a9f009944552429452186f74</sha256>
 	</update>
 </updates>
