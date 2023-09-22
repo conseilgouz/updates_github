@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Scroll</name>
+		<description>CG Scroll</description>
+		<element>mod_cg_scroll</element>
+		<type>module</type>
+		<client>site</client>
+		<version>4.0.1</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.conseilgouz.com/phocadownload/update.php?file=mod_cg_scroll.zip</downloadurl>
+		</downloads>
+	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.[789]"/>
+	</update>
+	<update>
+		<name>CG Scroll</name>
+		<description>CG Scroll</description>
+		<element>mod_cg_scroll</element>
+		<type>module</type>
+		<client>site</client>
+		<version>4.2.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.2.zip</downloadurl>
+		</downloads>
+	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="3.10"/>
+	</update>
+	<update>
+		<name>CG Scroll</name>
+		<description>CG Scroll</description>
+		<element>mod_cg_scroll</element>
+		<type>module</type>
+		<client>site</client>
+		<version>4.2.2</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.2.zip</downloadurl>
+		</downloads>
+	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<changelogurl>https://www.conseilgouz.com/updates/mod_cg_scroll_changelog.xml</changelogurl>
+		<sha256>0e0a18ab6dad6811fe5aa8b29206f86769ac45bde1fed90489199bc5dbecaa4e</sha256>
+	</update>
+</updates>
