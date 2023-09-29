@@ -13,6 +13,6 @@
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_majpostit_j4/master/plg_task_majpostit_changelog.xml</changelogurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>b44194ceb18a940f738d19bbfb447e8dff1512579254cdaff873a866771eac55</sha256>
+		<sha256>bd5e90173d081991eae6111504ec22f028efb84917720164bdec68b482fe6a74</sha256>
 	</update>
 </updates>
