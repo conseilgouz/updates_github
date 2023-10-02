@@ -26,7 +26,7 @@
 		<maintainerurl>http://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>739314216cb18327db6df6c6e9e4c8022f5e9a441e3813e700ac5e7416ea30f2</sha256>
+		<sha256>261921b5b1386c032981dea80973c1199ec32e8c28ad0c9c76d1843db1831991</sha256>
 	</update>
 	<update>
 		<name>CG Panorama</name>
@@ -41,6 +41,6 @@
 		<maintainerurl>http://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>739314216cb18327db6df6c6e9e4c8022f5e9a441e3813e700ac5e7416ea30f2</sha256>
+		<sha256>261921b5b1386c032981dea80973c1199ec32e8c28ad0c9c76d1843db1831991</sha256>
 	</update>
 </updates>
