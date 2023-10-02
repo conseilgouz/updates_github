@@ -24,7 +24,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>http://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8)))"/>
 		<client>site</client>
 		<sha256>261921b5b1386c032981dea80973c1199ec32e8c28ad0c9c76d1843db1831991</sha256>
 	</update>
@@ -39,7 +39,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>http://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8)))"/>
 		<client>site</client>
 		<sha256>261921b5b1386c032981dea80973c1199ec32e8c28ad0c9c76d1843db1831991</sha256>
 	</update>
