@@ -11,7 +11,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_phocacount_j4/archive/refs/tags/2.0.2.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_phocacount_j4/master/plg_content_phocacount_changelog.xml</changelogurl>
 		<sha256>8fd2fe681248a68285fd7ce9e888a0f3cfa0825374d9c4b11733838e186bb8ce</sha256>
 	</update>
