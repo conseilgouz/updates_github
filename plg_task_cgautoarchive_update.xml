@@ -6,13 +6,13 @@
 		<element>cgautoarchive</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgautoarchive_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgautoarchive_j4/archive/refs/tags/1.0.1.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cgautoarchive_j4/master/cgautoarchive_changelog.xml	</changelogurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>f8372f01f34573335ae649b4658877b92139b1054d8fa412426239a8afcaeb28</sha256>
+		<sha256>b2af67592599032291d0ad6f2df442c3c6b1974bf2e1da6ea13838c9a4ca8381</sha256>
 	</update>
 </updates>
