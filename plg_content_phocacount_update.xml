@@ -13,6 +13,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_phocacount_j4/master/plg_content_phocacount_changelog.xml</changelogurl>
-		<sha256>b112f8b823a56a0b8eae73268ea6c678c7c84e64e058f7b8094084f4b6966787</sha256>
+		<sha256>8fd2fe681248a68285fd7ce9e888a0f3cfa0825374d9c4b11733838e186bb8ce</sha256>
 	</update>
 </updates>
