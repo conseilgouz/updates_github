@@ -21,9 +21,9 @@
 		<element>mod_cg_scroll</element>
 		<type>module</type>
 		<client>site</client>
-		<version>4.2.4</version>
+		<version>4.2.6</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.6.zip</downloadurl>
 		</downloads>
 	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
 		<maintainer>ConseilGouz</maintainer>
@@ -36,15 +36,15 @@
 		<element>mod_cg_scroll</element>
 		<type>module</type>
 		<client>site</client>
-		<version>4.2.4</version>
+		<version>4.2.6</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.2.6.zip</downloadurl>
 		</downloads>
 	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://www.conseilgouz.com/updates/mod_cg_scroll_changelog.xml</changelogurl>
-		<sha256>16fca8e9c59610c45788737d80d0b33ffeda955423e9003031eea846a0598b99</sha256>
+		<sha256>51bee328af5460436dea800154174c0b39cd687db7de9bfb98800a1964a092e2</sha256>
 	</update>
 </updates>
