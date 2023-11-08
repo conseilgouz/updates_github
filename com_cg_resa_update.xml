@@ -14,7 +14,7 @@
 	</update>
 	<update>
 		<name>COM CG Resa</name>
-		<element>com_cg_resa</element>
+		<element>com_cgresa</element>
 		<type>component</type>
 		<version>2.3.5</version>
 		<downloads>
