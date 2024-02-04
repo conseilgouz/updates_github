@@ -6,10 +6,10 @@
 		<element>autoreadmore</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>5.1.4</version>
+		<version>5.1.5</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.1.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.1.5.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3.10"/>
 	</update>
@@ -19,13 +19,13 @@
 		<element>autoreadmore</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>5.1.4</version>
+		<version>5.1.5</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.1.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.1.5.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/AutoReadMore-J4/master/plg_autoreadmore_changelog.xml</changelogurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>7a1e17de8360a5a8f43591f7464fe0884a0d0e2a626620b5fefac50b54a6743c</sha256>
+		<sha256>d6cd8ac84bccce66b160f728e36e65e9e6ea464b52c842906c204ddbd1cab9b5</sha256>
 	</update>
 </updates>
