@@ -18,25 +18,11 @@
 		<element>pkg_extravote</element>
 		<type>package</type>
 		<client>0</client>
-		<version>4.1.1</version>
-		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_extravote_j4/archive/refs/tags/4.1.1.zip</downloadurl>
-		</downloads>
-		<targetplatform name="joomla" version="(4\.(0|1|2|3|4))"/>
-		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_extravote_j4/master/pkg_extravote_changelog.xml</changelogurl>
-		<sha256>144ed9763a41c58ac72244f3fc94362e2048ec9fca1ea4ce8c43ee7bdfd2d1e0</sha256>
-	</update>
-	<update>
-		<name>extravote</name>
-		<description>Package Extravote</description>
-		<element>pkg_extravote</element>
-		<type>package</type>
-		<client>0</client>
 		<version>4.3.2</version>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_extravote_j4/archive/refs/tags/4.3.2.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5|6|7|8|9))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_extravote_j4/master/pkg_extravote_changelog.xml</changelogurl>
 		<sha256>14e3d0f92b5d7e2289c220bd7a0ad3be31d862ffd098e76a1a52e40753febd52</sha256>
 	</update>
