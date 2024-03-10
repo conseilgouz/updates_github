@@ -19,13 +19,13 @@
 		<element>cglike</element>
 		<type>plugin</type>
 		<folder>ajax</folder>		
-		<version>2.1.0</version>
+		<version>2.1.1</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/cg_like_ajax_j4/master/plg_cg_like_ajax_changelog.xml</changelogurl>	
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_ajax_j4/archive/refs/tags/2.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_ajax_j4/archive/refs/tags/2.1.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>f690a6a941b7fff633c79f0045aee852e66cdd325c0e14708bfd9d23f0d0971f</sha256>
+		<sha256>b9d2ec76c7d0c97a2fa331d905d28086de5e8075a4536339443b273c3d6f52f5</sha256>
 </update>
 </updates>
