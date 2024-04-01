@@ -16,14 +16,14 @@
 		<name>CG Gallery</name>
 		<element>com_cggallery</element>
 		<type>component</type>
-		<version>2.4.8</version>
+		<version>2.4.9</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cggallery_j4/archive/refs/tags/2.4.8.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cggallery_j4/archive/refs/tags/2.4.9.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cggallery_j4/master/com_cggallery_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>7d59ab492d98b13517a6e95d4e05da4566adf855fd391143fee04a5178a01745</sha256>
+		<sha256>5afe5655c83fbe896d8a75d0b53c492e987023e45fb84761e988ecc04a635b81</sha256>
 	</update>
 </updates>
