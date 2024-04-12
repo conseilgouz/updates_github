@@ -6,14 +6,14 @@
 		<element>cgrange</element>
 		<type>plugin</type>
 		<folder>fields</folder>		
-		<version>1.1.2</version>
+		<version>1.1.3</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_fields_cgrange_j4/master/cgrange_changelog.xml	
 		</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_fields_cgrange_j4/archive/refs/tags/1.1.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_fields_cgrange_j4/archive/refs/tags/1.1.3.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>70360747391da755a8f083ea791040dfb1423d53eda9733e10e76c255c75c280</sha256>
+		<sha256>e17895aea584d066ca4a828305f21a43b41f32c64add25ca76a5514db14c405a</sha256>
 	</update>
 </updates>
