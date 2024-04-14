@@ -17,15 +17,15 @@
 		<name>CG Gallery</name>
 		<element>mod_cg_gallery</element>
 		<type>module</type>
-		<version>2.3.9</version>
+		<version>2.4.0</version>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_gallery_j4/master/mod_cg_gallery_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_gallery_j4/archive/refs/tags/2.3.9.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_gallery_j4/archive/refs/tags/2.4.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
 	</update>
-	<sha256>6ae8f819d05cba859ea8d4788965cbf8214c7fa9f2596dc2c4be3112740fe23a</sha256>
+	<sha256>3338684b80d757b898ba91fbecb678b8bc6dfe8db7b41ec65047fa643b62a310</sha256>
 	</updates>
