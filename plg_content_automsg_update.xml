@@ -6,14 +6,14 @@
 		<element>automsg</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>3.2.0</version>
+		<version>3.2.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.2.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.2.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
-		<sha256>ef57dd23f055df105838cd850e56ed9d188bfe3ce3ae16e1049c1894df1f95dc</sha256>
+		<sha256>146b02f0540676b604d6f715b43d539d79137b8f02d9b8db18680c31cf17d9b0</sha256>
 	</update>
 	<update>
 		<name>Plugin Content Published Article</name>
@@ -21,13 +21,13 @@
 		<element>publishedarticle</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>3.2.0</version>
+		<version>3.2.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.2.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.2.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
-		<sha256>ef57dd23f055df105838cd850e56ed9d188bfe3ce3ae16e1049c1894df1f95dc</sha256>
+		<sha256>146b02f0540676b604d6f715b43d539d79137b8f02d9b8db18680c31cf17d9b0</sha256>
 	</update>
 </updates>
