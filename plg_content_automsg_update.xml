@@ -21,13 +21,13 @@
 		<element>publishedarticle</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>3.1.5</version>
+		<version>3.2.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.1.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_automsg_j4/archive/refs/tags/3.2.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_automsg_changelog.xml</changelogurl>
-		<sha256>16d4b844b83a1812f15fc76349d491ba9769ee49ff89928104f032d29628a18f</sha256>
+		<sha256>ef57dd23f055df105838cd850e56ed9d188bfe3ce3ae16e1049c1894df1f95dc</sha256>
 	</update>
 </updates>
