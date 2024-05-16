@@ -19,13 +19,13 @@
 		<element>autoreadmore</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>5.2.1</version>
+		<version>5.2.2</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.2.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/AutoReadMore-J4/archive/refs/tags/5.2.2.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/AutoReadMore-J4/master/plg_autoreadmore_changelog.xml</changelogurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>9869f0e6d9edcf3ab420001d0340731142cd85f684b28c742534c310c6161632</sha256>
+		<sha256>823882a8f9160c107daf754783f5e35591b340280d9dea2e7d5bf49268437270</sha256>
 	</update>
 </updates>
