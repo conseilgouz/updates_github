@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>AutoMsg</name>
-		<element>automsg</element>
-		<type>plugin</type>
-		<folder>content</folder>		
+		<name>com_automsg</name>
+		<element>com_automsg</element>
+		<type>component</type>
 		<version>4.1.0</version>
         <changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_automsg_j4/master/pkg_automsg_changelog.xml</changelogurl>
 		<downloads>
