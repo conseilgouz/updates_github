@@ -4,14 +4,14 @@
 		<name>CG Chat</name>
 		<element>com_cgchat</element>
 		<type>component</type>
-		<version>1.3.4</version>
+		<version>1.4.0</version>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cgchat_j4/master/com_cgchat_changelog.xml</changelogurl>		
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgchat_j4/archive/refs/tags/1.3.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgchat_j4/archive/refs/tags/1.4.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>de672ba0bb7d1f78085ef0b1800ef8d899e5e19713603a9e1b082deadace17ca</sha256>
+		<sha256>10fcf7cd5f48883273fdc6a5cc09df5ace0133e1b312e2e778136371c272c7cc</sha256>
 	</update>
 </updates>
