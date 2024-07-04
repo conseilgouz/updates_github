@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Plugin Content Wikipedia</name>
+		<description/>
+		<element>wikipedia</element>
+		<type>plugin</type>
+		<folder>content</folder>		
+		<version>1.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_wikipedia_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_automsg_j4/master/plg_content_wikipedia_changelog.xml</changelogurl>
+		<sha256>67023ebf229af2bf61aa96e61d31ca70a4bee8ca5bee232fe4d63a48d511df4f</sha256>
+	</update>
+</updates>
