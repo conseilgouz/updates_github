@@ -6,13 +6,13 @@
 		<element>wikipedia</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>1.0.3</version>
+		<version>1.0.4</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_wikipedia_j4/archive/refs/tags/1.0.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_wikipedia_j4/archive/refs/tags/1.0.4.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_wikipedia_j4/master/plg_content_wikipedia_changelog.xml</changelogurl>
-		<sha256>6074af727213dc1ad61271bbed9c127eae9d846d5a65fc4dd5c3c554f807b1c1</sha256>
+		<sha256>92ff1a3d7486c1251a6cea14d8fcbfea2d38d544b88a8497b26b3e0b18661094</sha256>
 	</update>
 </updates>
