@@ -6,7 +6,7 @@
 		<element>wikipedia</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>1.1.05</version>
+		<version>1.1.0</version>
 		<client>site</client>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_wikipedia_j4/archive/refs/tags/1.1.0.zip</downloadurl>
