@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>plugin CG Webp</name>
+		<name>System - CG Webp</name>
 		<element>cgwebp</element>
 		<type>plugin</type>
 		<folder>system</folder>		
