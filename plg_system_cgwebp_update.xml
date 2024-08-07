@@ -2,6 +2,7 @@
 <updates>
 	<update>
 		<name>System - CG Webp</name>
+        <description/>
 		<element>cgwebp</element>
 		<type>plugin</type>
 		<folder>system</folder>		
