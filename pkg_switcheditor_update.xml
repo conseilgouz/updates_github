@@ -35,7 +35,7 @@
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_switcheditor_j4/archive/refs/tags/2.5.3.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_switcheditor_j4/master/pkg_switcheditor_changelog.xml</changelogurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<sha256>17893d2fc812dbbc81fdc3bded8582a30fdbcffa65d5d72e6148393f02057204</sha256>
 	</update>
 </updates>
