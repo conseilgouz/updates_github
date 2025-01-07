@@ -28,8 +28,8 @@
 	</update>
 	<update>
 		<name>extravote</name>
-		<description>Package Extravote</description>
-		<element>pkg_extravote</element>
+		<description>Extravote</description>
+		<element>extravote</element>
 		<type>plugin</type>
 		<folder>content</folder>		
 		<client>0</client>
