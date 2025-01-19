@@ -17,15 +17,15 @@
 		<name>CG Clean</name>
 		<element>mod_cg_clean</element>
 		<type>module</type>
-		<version>2.0.1</version>
+		<version>2.1.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_clean_j4/archive/refs/tags/2.0.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_clean_j4/archive/refs/tags/2.1.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>administrator</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_clean_j4/master/mod_cg_clean_changelog.xml</changelogurl>		
-		<sha256>0b34225590f980dae889aedf1e7b3e345835c9a6271f6109f8aefecb3c3f6e58</sha256>
+		<sha256>0762bb77f00d8fb78e89ce86b6afef69d6633bba382d58f1bf1a8d092ddcb3c2</sha256>
 	</update>
 </updates>
