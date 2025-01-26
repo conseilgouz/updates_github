@@ -4,14 +4,14 @@
 		<name>com_automsg</name>
 		<element>com_automsg</element>
 		<type>component</type>
-		<version>4.3.0</version>
+		<version>4.3.1</version>
         <changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_automsg_j4/master/pkg_automsg_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_automsg_j4/archive/refs/tags/4.3.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_automsg_j4/archive/refs/tags/4.3.1.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>88735693574d2cf09d770436c970855a6cb950e74ce0d233188f1b9b7d38dd21</sha256>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))||(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<sha256>0c4e2bdb6170a55dc59f46a11341b9be875c7827fa02ca50a64ed62e64bf6259</sha256>
 	</update>
 </updates>
