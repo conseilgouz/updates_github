@@ -47,31 +47,31 @@
 		<description>Package CG Template Switcher</description>
 		<element>pkg_CGTemplateSwitcher</element>
 		<type>package</type>
-		<version>2.2.4</version>
+		<version>2.3.0</version>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_template_switcher_j4/master/cg_template_switcher_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.2.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.3.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>7aacd854c75143aa92d2d98bc984496d1a2bfa5028e85cca1f1a742abf86e3bd</sha256>
+		<sha256>9f02ade1aa2775272db3311517a10a24aa09b46bb45f11e61813ba35f76e6b47</sha256>
 	</update>
 	<update>
 		<name>CG Template Switcher</name>
 		<description>Package CG Template Switcher</description>
 		<element>pkg_cgtemplateswitcher</element>
 		<type>package</type>
-		<version>2.2.4</version>
+		<version>2.3.0</version>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_template_switcher_j4/master/cg_template_switcher_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.2.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_template_switcher_j4/archive/refs/tags/2.3.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>7aacd854c75143aa92d2d98bc984496d1a2bfa5028e85cca1f1a742abf86e3bd</sha256>
+		<sha256>9f02ade1aa2775272db3311517a10a24aa09b46bb45f11e61813ba35f76e6b47</sha256>
 	</update>
 </updates>
