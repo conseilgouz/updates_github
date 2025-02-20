@@ -24,8 +24,23 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="(4\.(0|1))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_popup_j4/master/mod_cg_popup_changelog.xml</changelogurl>		
 		<sha256>eede7e54ef39ed665dd57e9cd45f274bcef6cae58aea9917baea98145c0c096c</sha256>
+	</update>
+	<update>
+		<name>CG Popup Module</name>
+		<element>mod_cg_popup</element>
+		<type>module</type>
+		<version>2.5.2</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_popup_j4/archive/refs/tags/2.5.2.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="((4\.(2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_popup_j4/master/mod_cg_popup_changelog.xml</changelogurl>		
+		<sha256>aaf13dd0d6c8319ecd9a76e0a0376bc89397c06e42e94091b16a3ab58bb53b4b</sha256>
 	</update>
 </updates>
