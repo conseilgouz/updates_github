@@ -36,15 +36,15 @@
 		<element>mod_cg_scroll</element>
 		<type>module</type>
 		<client>site</client>
-		<version>4.3.5</version>
+		<version>4.3.6</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.3.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_scroll_j4/archive/refs/tags/4.3.6.zip</downloadurl>
 		</downloads>
 	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<changelogurl>https://www.conseilgouz.com/updates/mod_cg_scroll_changelog.xml</changelogurl>
-		<sha256>f55f92c3439386e1d17ad8e56a6cca4268f08b0376f9b911bd9c50e8817be36a</sha256>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_scroll_j4/master/mod_cg_scroll_changelog.xml</changelogurl>
+		<sha256>203b52c8ee828c651b97298e35a9187f92285e6196b5665a37c571c2038c3172</sha256>
 	</update>
 </updates>
