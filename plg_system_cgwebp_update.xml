@@ -6,13 +6,13 @@
 		<element>cgwebp</element>
 		<type>plugin</type>
 		<folder>system</folder>		
-		<version>1.3.0</version>
+		<version>1.3.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_cgwebp_j4/archive/refs/tags/1.3.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_cgwebp_j4/archive/refs/tags/1.3.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_system_cgwebp_j4/master/plg_system_cgwebp_changelog.xml</changelogurl>
-		<sha256>903f7f063b73e9faaddbf605a8aee71bb32176932aeb2835f6284bfacf135c65</sha256>
+		<sha256>3d7965e1d017fdc8787f20b82a510459cbdf0dc41fb41b12c0ae13f59df7c416</sha256>
 	</update>
 </updates>
