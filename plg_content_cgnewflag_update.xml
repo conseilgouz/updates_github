@@ -13,6 +13,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgnewflag/master/plg_content_cgnewflag_changelog.xml</changelogurl>
-		<sha256>5a2b5f7976a9d462a521ef6886a3cdd104712f387f2f2aa7a94311fa76a3674964f7cdd8185b21d6312b7ec1c745735f582e0d80deab79dfdb13ab7b9e6bd30d</sha256>
+		<sha256>8175cd735e1bce8b8ca577d1411c4a743e7fbb2e7d2c6a71342e740d09c96f62</sha256>
 	</update>
 </updates>
