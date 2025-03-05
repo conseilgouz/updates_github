@@ -25,7 +25,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_j4/archive/refs/tags/2.2.1.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5|6|7|8|9))"/>
 		<sha256>3510b69d68633a1e2f327318092cb19b062a985472086fb7d773374665c9d4da</sha256>
 </update>
 </updates>
