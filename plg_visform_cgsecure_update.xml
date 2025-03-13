@@ -11,6 +11,19 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_visform_cgsecure_j4/archive/refs/tags/3.0.0.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="(4\.(0|1|2|3|4))"/>
+	</update>
+	<update>
+		<name>Visform - CG Secure</name>
+		<description/>
+		<element>cgsecure</element>
+		<type>plugin</type>
+		<folder>visforms</folder>		
+		<version>3.1.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_visform_cgsecure_j4/archive/refs/tags/3.1.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5|6|7|8|9))"/>
 	</update>
 </updates>
