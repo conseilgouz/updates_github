@@ -4,15 +4,15 @@
 		<name>CG Memo</name>
 		<element>mod_cg_memo</element>
 		<type>module</type>
-		<version>4.1.1</version>
+		<version>4.1.4</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_memo_j4/archive/refs/tags/4.1.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_memo_j4/archive/refs/tags/4.1.4.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_memo_j4/master/mod_cg_memo_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<client>site</client>
-		<sha256>fc352329fee296660e84cf48d2a3a7980fc9e3a64017a3924d8e396b852f63fd</sha256>
+		<sha256>d7194d6c4d2be4b03833ea9fdf70d2b5f82b80c17a1b1d7c2aad0e0706aac49d</sha256>
 	</update>
 </updates>
