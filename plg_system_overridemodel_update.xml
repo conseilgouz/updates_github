@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>plugin Override Model</name>
+		<description/>
+		<element>overridemodel</element>
+		<type>plugin</type>
+		<folder>system</folder>		
+		<version>1.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_overridemodel/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_system_overridemodel/master/overridemodel_changelog.xml</changelogurl>
+		<sha256>49c5f099a8cdfd3fe05ed07f5fcc3af172630814b09beb074e2b8fa8d5f45617</sha256>
+	</update>
+</updates>
