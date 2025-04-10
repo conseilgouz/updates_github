@@ -6,13 +6,13 @@
 		<element>cgdebug</element>
 		<type>plugin</type>
 		<folder>system</folder>		
-		<version>1.0.6</version>
+		<version>1.1.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_cgdebug/archive/refs/tags/1.0.6.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_cgdebug/archive/refs/tags/1.1.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_system_cgdebug/master/plg_system_cgdebug_changelog.xml</changelogurl>
-		<sha256>3657bbb589284ad9a6877cfac9d0ba161005ca2cd3f07cf4cc75313f778cbb96</sha256>
+		<sha256>04218de138f85a59eac74051ac95c6cba1a6ebbaa3d647ed6c8e731f16098beb</sha256>
 	</update>
 </updates>
