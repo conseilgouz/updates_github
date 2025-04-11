@@ -6,14 +6,14 @@
 		<element>iso</element>
 		<type>plugin</type>
 		<folder>cgisotope</folder>		
-		<version>2.1.2</version>
+		<version>2.1.4</version>
 		<client>site</client>
         <changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_cgisotope_iso/master/plg_cgisotope_iso_changelog.xml
         </changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgisotope_iso/refs/tags/2.1.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgisotope_iso/refs/tags/2.1.4.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-        <sha256>d1fefe93ad8b48322307561040dbf7f8a38bc233e41571296132ea8fca2ccc72</sha256>
+        <sha256>eb7f7b74ba4247a7f1ef8d60bf4d512fd605a224c4df7265facf9bf2f5d67cc4</sha256>
 </update>
 </updates>
