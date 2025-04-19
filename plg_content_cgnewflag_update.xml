@@ -6,13 +6,13 @@
 		<element>cgnewflag</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>1.1.4</version>
+		<version>1.2.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgnewflag/archive/refs/tags/1.1.4.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgnewflag/archive/refs/tags/1.2.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4|5|6|7|8|9))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgnewflag/master/plg_content_cgnewflag_changelog.xml</changelogurl>
-		<sha256>fd8478289f3754aaf7aa29efb1bb7a1d83cddd1f1cde89bd94d3ee43b6557662</sha256>
+		<sha256>8f26d6309bb1a36bb62b384ee8e8f72110ea6d9ebc4386f7b841c40a76101f18</sha256>
 	</update>
 </updates>
