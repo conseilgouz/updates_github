@@ -31,14 +31,14 @@
 		<name>CG Secure</name>
 		<element>com_cgsecure</element>
 		<type>component</type>
-		<version>3.2.3</version>
+		<version>3.2.5</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cgsecure_j4/archive/refs/tags/3.2.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cgsecure_j4/archive/refs/tags/3.2.5.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cgsecure_j4/master/com_cgsecure_changelog.xml</changelogurl>	
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>0afd675f5e3473bd95c407ec197e292200e3e20af2adf2ea5716dd09015e00cc</sha256>
+		<sha256>8d512069e6df6bf2dbe73fc63836588c3dcb1e7a581c9c65db0fc86e39ef365c</sha256>
 	</update>
 </updates>
