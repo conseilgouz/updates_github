@@ -6,12 +6,12 @@
 		<element>pkg_CGAvisClient</element>
 		<type>package</type>
 		<client>site</client>
-		<version>2.3.0</version>
+		<version>2.3.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.3.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.3.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_avisclient_j4/master/pkg_cg_avis_client_changelog.xml</changelogurl>
-		<sha256>e1f95f53cccd505391f8a7bd7eb6097bce9ecfe0ab2fc2df751457beee12c1bc</sha256>
+		<sha256>48a16ebdf5a530634629a51bce722cd47f3a1ffcc6b87c6e55ae821668c84d25</sha256>
 	</update>
 </updates>
