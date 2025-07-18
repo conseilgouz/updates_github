@@ -19,11 +19,12 @@
 		<element>cgsecure</element>
 		<type>plugin</type>
 		<folder>cgresa</folder>		
-		<version>3.0.0</version>
+		<version>3.5.1</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgresa_cgsecure/archive/refs/tags/3.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgresa_cgsecure/archive/refs/tags/3.5.1.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
+        <sha256>0796002e9d3d4315ae22a881bfa6d0f9ca7187109cf324f52e3b646cf7fb450d</sha256>
 	</update>
 </updates>
