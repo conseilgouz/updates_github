@@ -6,14 +6,14 @@
 		<element>secure</element>
 		<type>plugin</type>
 		<folder>cgchat</folder>		
-		<version>3.5.2</version>
+		<version>3.5.3</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_cgchat_secure/master/plg_cgchat_secure_changelog.xml	
 		</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgchat_secure/archive/refs/tags/3.5.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_cgchat_secure/archive/refs/tags/3.5.3.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>1a67450ca5b537e843e983b7bc2e2a963e7485c51dc4ebb4e66cbb60a7920262</sha256>
+		<sha256>df806e992098799cbb7a64404948de5299e6640adca461589585945ae9986704</sha256>
 	</update>
 </updates>
