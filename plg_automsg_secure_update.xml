@@ -6,14 +6,14 @@
 		<element>secure</element>
 		<type>plugin</type>
 		<folder>automsg</folder>		
-		<version>3.5.2</version>
+		<version>3.5.3</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_automsg_secure/master/plg_automsg_secure_changelog.xml	
 		</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_automsg_secure/archive/refs/tags/3.5.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_automsg_secure/archive/refs/tags/3.5.3.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>f6acb8a600364ac383b2f63c5f2291da6d9af9145924645f2df112af65e5158b</sha256>
+		<sha256>5dc7651d19dca289c71943015e3c67a64fb90492fb72d5415a6216f0aa8debd2</sha256>
 	</update>
 </updates>
