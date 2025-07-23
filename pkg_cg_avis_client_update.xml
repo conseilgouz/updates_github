@@ -5,7 +5,7 @@
 		<description>CG Avis Client</description>
 		<element>pkg_CGAvisClient</element>
 		<type>package</type>
-		<client>site</client>
+		<client>0</client>
 		<version>2.4.4</version>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.4.4.zip</downloadurl>
