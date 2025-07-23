@@ -17,7 +17,7 @@
 	<update>
 		<name>CG Avis Client</name>
 		<description>CG Avis Client</description>
-		<element>CGAvisClient</element>
+		<element>pkg_cgavisclient</element>
 		<type>package</type>
 		<client>site</client>
 		<version>2.4.4</version>
