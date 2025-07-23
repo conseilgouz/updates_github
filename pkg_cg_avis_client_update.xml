@@ -15,9 +15,9 @@
 		<sha256>67cdfea2e7c49e4c07e09c56708fede94d3a550b3c4daf2c0244a139d9acaf5d</sha256>
 	</update>
 	<update>
-		<name>CG Avis Client</name>
+		<name>Package CG Avis Client</name>
 		<description>CG Avis Client</description>
-		<element>cgavisclient</element>
+		<element>Package CG Avis Client</element>
 		<type>package</type>
 		<client>0</client>
 		<version>2.4.4</version>
