@@ -6,13 +6,13 @@
 		<element>pkg_CGAvisClient</element>
 		<type>package</type>
 		<client>0</client>
-		<version>2.4.10</version>
+		<version>2.4.13</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.4.10.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.4.13.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_avisclient_j4/master/pkg_cg_avis_client_changelog.xml</changelogurl>
-		<sha256>f0ca87c46c5ba012192483fd96d15198a23ce312c9c0444b7f35a2ac45c68427</sha256>
+		<sha256>e5ed50644b3512f34d75bba5d49cc46a43ea9412b2626689991c4b77d73221f7</sha256>
 	</update>
 	<update>
 		<name>CG Avis Client</name>
@@ -20,12 +20,12 @@
 		<element>Package CG Avis Client</element>
 		<type>package</type>
 		<client>0</client>
-		<version>2.4.10</version>
+		<version>2.4.13</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.4.10.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cg_avisclient_j4/archive/refs/tags/2.4.13.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_avisclient_j4/master/pkg_cg_avis_client_changelog.xml</changelogurl>
-		<sha256>f0ca87c46c5ba012192483fd96d15198a23ce312c9c0444b7f35a2ac45c68427</sha256>
+		<sha256>e5ed50644b3512f34d75bba5d49cc46a43ea9412b2626689991c4b77d73221f7</sha256>
 	</update>
 </updates>
