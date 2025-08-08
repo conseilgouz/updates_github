@@ -19,12 +19,12 @@
 		<element>cgsecure</element>
 		<type>plugin</type>
 		<folder>visforms</folder>		
-		<version>3.5.1</version>
+		<version>3.6.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_visform_cgsecure_j4/archive/refs/tags/3.5.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_visform_cgsecure_j4/archive/refs/tags/3.6.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-        <sha256>4c7aa3eb57574d966bc8083a0a7aa4154416ea41659571f85c837369782b6663</sha256>
+        <sha256>95452679faecfa8369992b133cbf35f1a87f6091c8dd4c28dce18e062bcba8d5</sha256>
 	</update>
 </updates>
