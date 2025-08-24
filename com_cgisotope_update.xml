@@ -17,14 +17,14 @@
 		<name>CG Isotope</name>
 		<element>com_cgisotope</element>
 		<type>component</type>
-		<version>4.6.5</version>
+		<version>4.6.6</version>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cgisotope_j4/master/com_cgisotope_changelog.xml</changelogurl>		
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgisotope_j4/archive/refs/tags/4.6.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgisotope_j4/archive/refs/tags/4.6.6.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4|5|6|7|8|9))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>3996305844c7e291aea58ada08ed003dd7a3553c17c9571cbd844f9af9c9588f</sha256>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4|5|6|7|8|9))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
+		<sha256>44227696ae2baaf629d6f6a9c181379da11a88d0158e2cece4bd983572775ace</sha256>
 	</update>
 </updates>
