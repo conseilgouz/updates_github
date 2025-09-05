@@ -6,12 +6,12 @@
 		<element>cgchangelog</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>1.1.0</version>
+		<version>1.2.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgchangelog_j4/archive/refs/tags/1.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_cgchangelog_j4/archive/refs/tags/1.2.0.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgchangelog_j4/master/plg_content_cgchangelog_changelog.xml</changelogurl>
 		<sha256>bc71241f0575236b544ef4746a16e55adf7e69413d19dbb483bebd25b55b124e</sha256>
 	</update>
