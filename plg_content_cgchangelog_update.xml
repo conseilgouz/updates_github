@@ -13,6 +13,6 @@
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_cgchangelog_j4/master/plg_content_cgchangelog_changelog.xml</changelogurl>
-		<sha256>bc71241f0575236b544ef4746a16e55adf7e69413d19dbb483bebd25b55b124e</sha256>
+		<sha256>741d0458e948b7ee21de9e39a466f240a19248dde1d8bc321fef7e0bf4390192</sha256>
 	</update>
 </updates>
