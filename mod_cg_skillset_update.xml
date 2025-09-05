@@ -4,15 +4,15 @@
 		<name>CG Skillset</name>
 		<element>mod_cg_skillset</element>
 		<type>module</type>
-		<version>1.1.2</version>
+		<version>1.2.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_skillset_j4/archive/refs/tags/1.1.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_skillset_j4/archive/refs/tags/1.2.0.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_skillset_j4/master/mod_cg_skillset_changelog.xml</changelogurl>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<client>site</client>
-		<sha256>6524e71d66ab046c1cbd16af492dafcdb6c3dd88391c38f6ba02be6754e3dec1</sha256>		
+		<sha256>317f31129cd730be205f1521ad3900a78ac421a1d0c96461b627e1401245ea33</sha256>		
 	</update>
 </updates>
