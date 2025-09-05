@@ -5,7 +5,7 @@
 		<description/>
 		<element>cgchangelog</element>
 		<type>plugin</type>
-		<folder>content</folder>		
+		<folder>content</folder>
 		<version>1.2.0</version>
 		<client>site</client>
 		<downloads>
