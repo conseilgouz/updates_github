@@ -19,13 +19,13 @@
 		<element>phocacheckip</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>3.5.1</version>
+		<version>3.6.0</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_phocacheckip_j4/master/phocacheckip_changelog.xml	</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_phocacheckip_j4/archive/refs/tags/3.5.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_phocacheckip_j4/archive/refs/tags/3.6.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-        <sha256>1b650ceffcb9514202710f0471467bd324ca8d52d1814c284e60f687eb84af90</sha256>
+        <sha256>98371223eb5d8c65f537e9432affe92249993aeb8c5c5358951dd1273fb89861</sha256>
 	</update>
 </updates>
