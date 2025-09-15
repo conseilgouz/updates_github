@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Conseilgouz/name>
+		<name>Conseilgouz</name>
 		<description>ConseilGouz Library</description>
 		<element>conseilgouz</element>
-		<type>plugin</type>
-		<folder>system</folder>
-        <client>site</client>
+		<type>file</type>
 		<version>1.0.3</version>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/lib_conseilgouz/archive/refs/tags/1.0.3.zip</downloadurl>
