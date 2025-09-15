@@ -5,15 +5,15 @@
 		<description>ConseilGouz Library</description>
 		<element>conseilgouz</element>
 		<type>file</type>
-		<version>1.0.3</version>
+		<version>1.0.4</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/lib_conseilgouz/archive/refs/tags/1.0.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/lib_conseilgouz/archive/refs/tags/1.0.4.zip</downloadurl>
 		</downloads>
 	    <infourl title="ConseilGouz">https://www.conseilgouz.com/</infourl>		
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/lib_conseilgouz/master/lib_conseilgouz_changelog.xml</changelogurl>
-		<sha256>269b222027f28c69b5390731b7dae2ca9ee7375e7a29f6856e1b7b7363ad9aed</sha256>
+		<sha256>8cc32d85c68947fbbc2cbc7f791684dd693f53d7f69f2465d8c02cd3b9f9b560</sha256>
 	</update>
 </updates>
