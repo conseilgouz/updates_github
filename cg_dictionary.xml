@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>CG Dictionary</name>
+		<element>com_cg_dictionary</element>
+		<type>component</type>
+		<version>2.1.1</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_dictionary_j4/archive/refs/tags/2.1.1.zip</downloadurl>
+		</downloads>
+		<changelogurl>https://raw.githubusercontent.com/conseilgouz/cg_dictionary_j4/master/cg_dictionary_changelog.xml</changelogurl>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))||(6\.(0|1)))"/>
+		<sha256>638f0cdbcd4955c63cddaf9e88023c143cedc6bce8bb2c985272ec5c7a3059ee</sha256>
+	</update>
+</updates>
