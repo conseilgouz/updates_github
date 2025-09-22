@@ -16,14 +16,14 @@
 		<name>COM CG Resa</name>
 		<element>com_cgresa</element>
 		<type>component</type>
-		<version>2.4.2</version>
+		<version>2.4.3</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cg_resa_j4/archive/refs/tags/2.4.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cg_resa_j4/archive/refs/tags/2.4.3.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cg_resa_j4/master/com_cgresa_changelog.xml</changelogurl>
-		<sha256>715ff8da8d9203c2b8f6b1baed7ee7ae8b192e731ab7d71327e1977816770663</sha256>
+		<sha256>a6c4af52122e51f8c27058530dbd609ff09c9a48dc756a10cfa11dfd0f72e81d</sha256>
 	</update>
 </updates>
