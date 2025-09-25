@@ -32,15 +32,15 @@
 		<name>CG Popup Module</name>
 		<element>mod_cg_popup</element>
 		<type>module</type>
-		<version>2.6.1</version>
+		<version>2.6.2</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_popup_j4/archive/refs/tags/2.6.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_cg_popup_j4/archive/refs/tags/2.6.2.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((4\.(2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_cg_popup_j4/master/mod_cg_popup_changelog.xml</changelogurl>		
-		<sha256>86eea65273ae5d5294c9eeedf4249c9306eab3f91968160aacaa0657245615f1</sha256>
+		<sha256>e7c1f4bf786f03ab654ae99aeaa86d6aeb6a1ba9ebf152e0f6122feb368bcda3</sha256>
 	</update>
 </updates>
