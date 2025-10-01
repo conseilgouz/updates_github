@@ -30,15 +30,15 @@
 		<name>Derniere connexion</name>
 		<element>mod_prev_login</element>
 		<type>module</type>
-		<version>2.2.0</version>
+		<version>2.3.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_prev_login_j4/archive/refs/tags/2.2.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/mod_prev_login_j4/archive/refs/tags/2.3.0.zip</downloadurl>
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/mod_prev_login_j4/master/mod_prev_login_changelog.xml</changelogurl>		
-		<sha256>89ee76e2c1bce3412b8ef0c67de4e6cb33146b57f72d244473cc1fb04cb01aae</sha256>
+		<sha256>24961745e6a1ac898ceb51952cfabdb1223ae327987651d513ce568b53d8dcdb</sha256>
 	</update>
 </updates>
