@@ -19,13 +19,13 @@
 		<element>simpleaccordeon</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>2.2.1</version>
+		<version>2.3.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_simple_accordeon_j4/archive/refs/tags/2.2.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_simple_accordeon_j4/archive/refs/tags/2.3.0.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_simple_accordeon_j4/master/simpleaccordeon_changelog.xml</changelogurl>		
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>08b27228573c1e533cb083f7af30010361693c181e6eaa0ef18cd32e9a2890aa</sha256>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
+		<sha256>dab3a2cc1313b554b589705c52c07eec92c8c3b41b9d259cdd786d45015e3e3b</sha256>
 </update>
 </updates>
