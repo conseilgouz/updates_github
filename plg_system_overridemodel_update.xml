@@ -6,13 +6,13 @@
 		<element>overridemodel</element>
 		<type>plugin</type>
 		<folder>system</folder>		
-		<version>1.0.2</version>
+		<version>1.1.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_overridemodel/archive/refs/tags/1.0.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_system_overridemodel/archive/refs/tags/1.1.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_system_overridemodel/master/overridemodel_changelog.xml</changelogurl>
-		<sha256>d8edddcbddaac9cb998fdcca3665c3960c0838674853dcc6b6ce73cb88e9980e</sha256>
+		<sha256>45ca0e704bb7fe41c2154e6056c2927784799a4bd4189e33721716726d707c1e</sha256>
 	</update>
 </updates>
