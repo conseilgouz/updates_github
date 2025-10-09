@@ -6,13 +6,13 @@
 		<element>cgindexer</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>1.0.5</version>
+		<version>1.1.0</version>
 		<client>site</client>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgindexer_j4/archive/refs/tags/1.0.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cgindexer_j4/archive/refs/tags/1.1.0.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cgindexer_j4/master/plg_task_cgindexer_changelog.xml</changelogurl>
-		<sha256>8b960cee0fc0234e2b8ae7b220070b93ae89f17319e623bd1c7b4224990894c7</sha256>
+		<sha256>9ee9fe5a4dda906daa19e911955f3cf0b7d19765f8e39754434d3215e8f005d7</sha256>
 	</update>
 </updates>
