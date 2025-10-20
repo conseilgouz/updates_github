@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Kunena - CG Secure</name>
+		<description/>
+		<element>cgsecure</element>
+		<type>plugin</type>
+		<folder>kunena</folder>		
+		<version>1.0.0</version>
+		<client>site</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_kunena_cgsecure_j4/archive/refs/tags/1.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="((5\.(2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
+        <sha256>6df86d60cd48230d02c887bbe49ccd5f907d718cd17c94d591ac967b30531de6</sha256>
+	</update>
+</updates>
