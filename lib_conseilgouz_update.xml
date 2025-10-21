@@ -30,6 +30,6 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
 		<targetplatform name="joomla" version="((5\.(2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/lib_conseilgouz/master/lib_conseilgouz_changelog.xml</changelogurl>
-		<sha256>8cc32d85c68947fbbc2cbc7f791684dd693f53d7f69f2465d8c02cd3b9f9b560</sha256>
+		<sha256>f7dba68c0c3951a2e543b1a87cd3d3b09aa948fff6d084aa6b77377a23c6ddad</sha256>
 	</update>
 </updates>
