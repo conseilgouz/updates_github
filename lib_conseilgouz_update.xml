@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Conseilgouz</name>
+		<name>lib_conseilgouz</name>
 		<description>ConseilGouz Library</description>
 		<element>conseilgouz</element>
 		<type>library</type>
@@ -17,7 +17,7 @@
 		<sha256>8cc32d85c68947fbbc2cbc7f791684dd693f53d7f69f2465d8c02cd3b9f9b560</sha256>
 	</update>
 	<update>
-		<name>Conseilgouz</name>
+		<name>lib_conseilgouz</name>
 		<description>ConseilGouz Library</description>
 		<element>conseilgouz</element>
 		<type>library</type>
