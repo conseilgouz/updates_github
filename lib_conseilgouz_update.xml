@@ -3,7 +3,7 @@
 	<update>
 		<name>lib_conseilgouz</name>
 		<description>ConseilGouz Library</description>
-		<element>lconseilgouz</element>
+		<element>conseilgouz</element>
 		<type>library</type>
 		<version>1.0.4</version>
 		<downloads>
