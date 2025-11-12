@@ -25,7 +25,21 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((5\.(2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
+		<targetplatform name="joomla" version="5\.(2|3)"/>
 		<sha256>d64eb5dbb8a223cae19c791f375a53e1111eef35c03576ce95fbd1460da17179</sha256>
+	</update>
+	<update>
+		<name>com_automsg</name>
+		<element>com_automsg</element>
+		<type>component</type>
+		<version>4.4.6</version>
+        <changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_automsg_j4/master/pkg_automsg_changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_automsg_j4/archive/refs/tags/4.4.6.zip</downloadurl>
+		</downloads>
+		<maintainer>ConseilGouz</maintainer>
+		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
+		<targetplatform name="joomla" version="((5\.(4|5|6|7|8|9))|(6\.(0|1)))"/>
+		<sha256>39467e643dcf3906fbf4c6b5e80a55d10c7a419feb450a0765b80e1e139f51c8</sha256>
 	</update>
 </updates>
