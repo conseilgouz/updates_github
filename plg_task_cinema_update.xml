@@ -6,13 +6,13 @@
 		<element>cinema</element>
 		<type>plugin</type>
 		<folder>task</folder>		
-		<version>4.2.1</version>
+		<version>4.3.0</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_task_cinema_j4/master/plg_task_cinema_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cinema_j4/archive/refs/tags/4.2.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_task_cinema_j4/archive/refs/tags/4.3.0.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>e6e40ee9d1184644b224df4935e1a8add71630c6cfd139af0acc7ea605972cd6</sha256>
+		<targetplatform name="joomla" version="((5\.(2|3|4|5|6|7|8|9))|(6\.(0|1)))"/>
+		<sha256>80b5f79fc2ec82cda029b38a09f6170f33b723402de6982e2b97d9e2bb59c21d</sha256>
 	</update>
 </updates>
