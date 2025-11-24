@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>UP</name>
+        <description>UP - Universal Plugin</description>
+        <element>up</element>
+        <type>plugin</type>
+        <folder>content</folder>
+        <client>site</client>
+        <version>5.2</version>
+        <downloads>
+        <downloadurl type="full" format="zip">https://up.lomart.fr/files/plg_content_up-v5.2.zip</downloadurl>
+        </downloads>
+        <maintainer>LOMART</maintainer>
+        <maintainerurl>https://up.lomart.fr</maintainerurl>
+        <targetplatform name="joomla" version="((3\.10)|(4\.(0|1|2|3|4))|(5\.(0|1)))"/>
+        <sha256>1234fa28a96e096f04cafa3e170acc065cd5d27bdb42b1e247f8e9cd4da2ce2b</sha256>
+    </update>
+    <update>
+        <name>UP</name>
+        <description>UP - Universal Plugin</description>
+        <element>up</element>
+        <type>plugin</type>
+        <folder>content</folder>
+        <client>site</client>
+        <version>5.4.8</version>
+        <downloads>
+        <downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_up/archive/refs/tags/plg_content_up-update-5.4.8.zip</downloadurl>
+        </downloads>
+        <maintainer>LOMART</maintainer>
+        <maintainerurl>https://up.lomart.fr</maintainerurl>
+        <targetplatform name="joomla" version="((5\.(2|3|4))|(6\.(0|1)))"/>
+        <sha256>f50032b05e5644b3a5c209af9147267e4c84e4b2c5a3e815ede46483e42edf63</sha256>
+    </update>
+</updates>
