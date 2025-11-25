@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>UP</name>
+        <description>UP Editor button</description>
+        <element>up</element>
+        <type>plugin</type>
+        <folder>editors-xtd</folder>
+        <client>0</client>
+        <version>5.2</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://up.lomart.fr/files/update.php?file=plg_editor-xtd_upbtn-v5.2.zip</downloadurl>
+        </downloads>
+        <maintainer>LOMART</maintainer>
+        <maintainerurl>http://up.lomart.fr</maintainerurl>
+        <targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1)))"/>
+		<sha256>cc2df55a1c66037c1fac73027cfea41994509df5ce415212bdf7e480914e167e</sha256>
+    </update>
+    <update>
+        <name>UP</name>
+        <description>UP Editor button</description>
+        <element>up</element>
+        <type>plugin</type>
+        <folder>editors-xtd</folder>
+        <client>site</client>
+        <version>5.4</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_editor-xtd_upbtn/archive/refs/tags/5.4.zip</downloadurl>
+        </downloads>
+        <maintainer>LOMART</maintainer>
+        <maintainerurl>http://up.lomart.fr</maintainerurl>
+        <targetplatform name="joomla" version="((5\.(2|3|4))|(6\.(0|1)))"/>
+		<sha256>a6a8f21d90db92cea99ed4bc1ad3401d6d32d45a98cb49e9f6c90f03cb9c264c</sha256>
+    </update>
+</updates>
