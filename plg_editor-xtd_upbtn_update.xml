@@ -19,7 +19,7 @@
     <update>
         <name>UP</name>
         <description>UP Editor button</description>
-        <element>up</element>
+        <element>upbtn</element>
         <type>plugin</type>
         <folder>editors-xtd</folder>
         <client>site</client>
