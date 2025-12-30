@@ -31,9 +31,9 @@
 		<name>CG Secure</name>
 		<element>com_cgsecure</element>
 		<type>component</type>
-		<version>3.7.2</version>
+		<version>3.7.3</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cgsecure_j4/archive/refs/tags/3.7.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/pkg_cgsecure_j4/archive/refs/tags/3.7.3.zip</downloadurl>
 		</downloads>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cgsecure_j4/master/com_cgsecure_changelog.xml</changelogurl>	
 		<maintainer>ConseilGouz</maintainer>
@@ -41,6 +41,6 @@
         <supported_databases mysql="8.0" mariadb="10.6" />		
         <php_minimum>8.3</php_minimum>
 		<targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
-		<sha256>b50948c81a55fe8573e96de6f9897cdb57a23187411a38f73931a3e3dcde96f3</sha256>
+		<sha256>db3d72f508c2e4e2a4a25daf1e7faccf09024b5ff90c0fef0c5b18d7a2be0db0</sha256>
 	</update>
 </updates>
