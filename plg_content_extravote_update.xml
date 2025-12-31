@@ -19,13 +19,13 @@
 		<type>plugin</type>
 		<folder>content</folder>		
 		<client>0</client>
-		<version>4.5.3</version>
+		<version>4.5.4</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_extravote/archive/refs/tags/4.5.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_extravote/archive/refs/tags/4.5.4.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_extravote/master/plg_content_extravote_changelog.xml</changelogurl>
-		<sha256>ceb733ff6605137f38ba34133fc4bad7d0c264b563b292a63752e645d5f44f63</sha256>
+		<sha256>fac0f080694b43f4b73f9bd364c5c01e1ad57b6ff24d3bd62b2534ca5bfc0fac</sha256>
 	</update>
 	<update>
 		<name>extravote</name>
@@ -33,12 +33,12 @@
 		<element>pkg_extravote</element>
 		<type>package</type>
 		<client>0</client>
-		<version>4.5.3</version>
+		<version>4.5.4</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_extravote/archive/refs/tags/4.5.3.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/plg_content_extravote/archive/refs/tags/4.5.4.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/plg_content_extravote/master/plg_content_extravote_changelog.xml</changelogurl>
-		<sha256>ceb733ff6605137f38ba34133fc4bad7d0c264b563b292a63752e645d5f44f63</sha256>
+		<sha256>fac0f080694b43f4b73f9bd364c5c01e1ad57b6ff24d3bd62b2534ca5bfc0fac</sha256>
 	</update>
 </updates>
