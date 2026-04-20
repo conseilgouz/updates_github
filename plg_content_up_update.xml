@@ -23,13 +23,13 @@
         <type>plugin</type>
         <folder>content</folder>
         <client>site</client>
-        <version>6.0.18</version>
+        <version>6.0.20</version>
         <downloads>
-        <downloadurl type="full" format="zip">https://github.com/conseilgouz/up/releases/download/6.0.18/plg_content_up-v6.0.18.zip</downloadurl>
+        <downloadurl type="full" format="zip">https://github.com/conseilgouz/up/releases/download/6.0.20/plg_content_up-v6.0.20.zip</downloadurl>
         </downloads>
         <maintainer>LOMART</maintainer>
         <maintainerurl>https://up.lomart.fr</maintainerurl>
         <targetplatform name="joomla" version="((5\.(2|3|4))|(6\.(0|1)))"/>
-        <sha256>6edc1af62723d2c7a182cacdc128254456e47d93dd1cedae9124efe5f3ecfec7</sha256>
+        <sha256>12e0d2ae446949f332a2fa9c176ced85ac1f08d6e056ca814d2373679e018c3e</sha256>
     </update>
 </updates>
