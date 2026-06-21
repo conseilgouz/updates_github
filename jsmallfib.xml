@@ -27,6 +27,6 @@
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/jsmallfib/archive/refs/tags/5.0.4.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((5\.)|(6\.*))"/>
-		<sha256>sha256:544ab4113550a784a35292a938727725c7316f36b57cae558c26c700b40a685e</sha256>
+		<sha256>544ab4113550a784a35292a938727725c7316f36b57cae558c26c700b40a685e</sha256>
 	</update>
 </updates>
