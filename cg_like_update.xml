@@ -19,13 +19,13 @@
 		<element>cglike</element>
 		<type>plugin</type>
 		<folder>content</folder>		
-		<version>2.3.2</version>
+		<version>2.3.3</version>
 		<client>site</client>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/cg_like_j4/master/plg_cg_like_changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_j4/archive/refs/tags/2.3.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/conseilgouz/cg_like_j4/archive/refs/tags/2.3.3.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="((4\.(0|1|2|3|4|5|6|7|8|9))|(5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2)))"/>
-		<sha256>9b1ef53d450d363f730eb26e73d406f6ee5d1db53e7f700c227af3a1df7e6764</sha256>
+		<sha256>e9bf3b96af95f3b298db005eec27052ce370244c16fd3c12fa82f913ffcef4bd</sha256>
 </update>
 </updates>
