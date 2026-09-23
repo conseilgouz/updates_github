@@ -23,7 +23,7 @@
 		</downloads>
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
-		<targetplatform name="joomla" version="((4\.(0|1|2|3|4))|(5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((4\.*)|(5\.*)|(6\.*))"/>
 		<client>site</client>
 		<sha256>907b273259e4284c64b29a0de6383e6abc060027f61976941ad0469cbf8a9689</sha256>
 	</update>
