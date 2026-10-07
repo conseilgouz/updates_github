@@ -20,6 +20,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/conseilgouz/com_cgparallax_j4/archive/refs/tags/2.3.7.zip</downloadurl>
 		</downloads>
+        <security>0</security>
 		<changelogurl>https://raw.githubusercontent.com/conseilgouz/com_cgparallax_j4/master/com_cgparallax_changelog.xml</changelogurl>		
 		<maintainer>ConseilGouz</maintainer>
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
