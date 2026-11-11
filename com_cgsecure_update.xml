@@ -40,7 +40,7 @@
 		<maintainerurl>https://www.conseilgouz.com</maintainerurl>
         <supported_databases mysql="8.0" mariadb="10.6" />		
         <php_minimum>8.1</php_minimum>
-		<targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3|4|5|6|7|8|9)))"/>
+		<targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9))|(6\.(0|1|2|3)))"/>
 		<sha256>6844ec1ca8e06dd14f00b9038093a1b27774647ea2415c15360a8442f10ecb6c</sha256>
 	</update>
 </updates>
